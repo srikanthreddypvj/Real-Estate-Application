@@ -1,4 +1,4 @@
 # Real-Estate-Application
-This is a React Application for the real estate 
+This is a React Application for the real estate
 
 
