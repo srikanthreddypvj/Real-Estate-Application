@@ -1,2 +1,2 @@
 # Real-Estate-Application
-MERN
+MERN APP
